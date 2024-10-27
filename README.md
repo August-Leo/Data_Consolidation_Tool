@@ -1,5 +1,3 @@
-# Data_Consolidation_Tool
-
 #  Project : Data_Consolidation_Tool Using VBA
 
 To map the headers of output template with multiple input files to consolidate the data where Order date is between 1 to 5 of any month. Code is
